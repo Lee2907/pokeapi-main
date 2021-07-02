@@ -2,3 +2,11 @@
     background-image: url(Pokemon-HD-Free-Wallpaper.jpg);
     width: 250px;
 }
+
+.pokemon-list-container{
+    position: relative;
+    border-radius: 36px;
+    background: #4f1212;
+    box-shadow:  5px 5px 10px #3a0d0d,
+             -5px -5px 10px #641717;
+}
